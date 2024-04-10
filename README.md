@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋
+> Currently in some sophisticated love-hate relationships with system programming...<br>
+> ... and always been.
+***
 
-<!--
-**architectxor/architectxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education🎓
+- BS in Thermal Engineering, with specialization in ICS design (probably not what you looking for);
+- MS in Informational Security, but I prefer to call myself Red-Eye-Contest Champion💪🏆.
 
-Here are some ideas to get you started:
+## Operating systems 💽 
+- In l❤️ve with Linux🐧,
+- but dre🥰ming about OpenBSD🐡,
+- 😴 on W🩼ndows
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Programming languages
+- C programming language🫡,
+- BASH🔧,
+- Racket🔴🔵 (basically I can do all kind of LISPs I think),
+- Python🐍
+- C++, Java, Kotlin, etc.
+***
+
+## Things I messed with
+- PE/COFF format;
+- UEFI;
+- Linux API;
+- Custom linking;
+- x86_64 and its predecessor;
+- Android Internals;
+- radare2;
+***
